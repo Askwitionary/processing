@@ -1,0 +1,13 @@
+.idea
+
+/data/output/*
+/data/snowball/*
+/data/wiki/*
+/data/word2vec/*
+/data/数据采集/*
+
+/data/temp/tmp.pickle
+
+*.jpg
+*.png
+*.jpeg
