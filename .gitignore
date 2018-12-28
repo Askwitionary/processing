@@ -1,13 +1,17 @@
 .idea
+data/nlp
+data/output
+data/szqj
+data/temp
+data/
 
-/data/output/*
-/data/snowball/*
-/data/wiki/*
-/data/word2vec/*
-/data/数据采集/*
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.pickle
+*.dcm
+*.DCM
 
-/data/temp/tmp.pickle
-
-*.jpg
-*.png
-*.jpeg
